@@ -1,7 +1,7 @@
 ### <div align="center">Soy Héctor, un programador de 19 años tanto front-end como back-end que quiere formarse para estar al día a la par con el mundo laboral.</div>  
   
 
-- 👨‍🎓 Graduado en CFGM - Sistemas Microinformáticos y Redes (2021-2022) y CFGS - Desarrollo de Aplicaciones Web (2023-2024)  
+- 👨‍🎓 Graduado en C.F.G.M. - Sistemas Microinformáticos y Redes (2021-2023) y C.F.G.S. - Desarrollo de Aplicaciones Web (2023-2025)  
   
 
 - 👨‍💻 Investigando nuevas tecnologías mediante cursos online  
